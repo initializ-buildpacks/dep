@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/paketo-buildpacks/dep"
+	"github.com/initializ-buildpacks/dep"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/cargo"
 	"github.com/paketo-buildpacks/packit/v2/chronos"

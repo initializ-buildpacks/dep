@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/paketo-buildpacks/dep"
+	"github.com/initializ-buildpacks/dep"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/sclevine/spec"
 

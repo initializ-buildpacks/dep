@@ -2,15 +2,15 @@ api = "0.7"
 
 [buildpack]
   description = "A buildpack for installing the Dep tool"
-  homepage = "https://github.com/paketo-buildpacks/dep"
-  id = "paketo-buildpacks/dep"
+  homepage = "https://github.com/initializ-buildpacks/dep"
+  id = "initializ-buildpacks/dep"
   keywords = ["go", "dep"]
   name = "Paketo Dep Buildpack"
   sbom-formats = ["application/vnd.cyclonedx+json", "application/spdx+json", "application/vnd.syft+json"]
 
   [[buildpack.licenses]]
     type = "Apache-2.0"
-    uri = "https://github.com/paketo-buildpacks/dep/blob/main/LICENSE"
+    uri = "https://github.com/initializ-buildpacks/dep/blob/main/LICENSE"
 
 [metadata]
   include-files = ["bin/build", "bin/detect", "bin/run", "buildpack.toml"]

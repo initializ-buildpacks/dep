@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/dep
+module github.com/initializ-buildpacks/dep
 
 go 1.18
 
